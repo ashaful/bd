@@ -38,6 +38,8 @@ section {
 	position: relative;
 	overflow: scroll;
 }
+section:hover{
+  background-color: orange;
 
 #Sundarbans {
 	border: 1px solid black;
